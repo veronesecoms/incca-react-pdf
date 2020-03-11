@@ -1,15 +1,16 @@
-# react-html2pdf
-covert html to pdf
+# incca-react-pdf
+convert html to pdf
+This is a copy package of the react-html2pdf forked to work in a private project of Incca Sistemas
 
 ## Install package
 ```bash
-$ npm i react-html2pdf
+$ npm i incca-react-pdf
 ```
 
 ## Usage
 ```js
 //import
-import { Preview, print } from 'react-html2pdf';
+import { Preview, print } from 'incca-react-pdf';
 
 //render
 <Preview id={'jsx-template'} >
@@ -17,10 +18,6 @@ import { Preview, print } from 'react-html2pdf';
 </Preview>
 <button onClick={()=>print('a', 'jsx-template')}> print</button>
 ```
-## Example
-
-Check full example in the [example](https://github.com/sanpyaelin/react-html2pdf/blob/master/examples/index.js) folder.
-
 
 ## License
 
