@@ -1,5 +1,5 @@
 # :page_with_curl: Incca React PDF
-convert html to pdf <br>
+Convert html to pdf <br>
 This is a copy package of the react-html2pdf forked to work in a private project of Incca Sistemas
 
 ## Install package
